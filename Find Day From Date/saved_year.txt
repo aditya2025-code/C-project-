@@ -1,0 +1,5 @@
+		1900, January, 1 -> Monday
+		1800, January, 1 -> Wednesday
+		1642, January, 20 -> Friday
+		1869, January, 11 -> Thursday
+		2026, January, 5 -> Thursday
